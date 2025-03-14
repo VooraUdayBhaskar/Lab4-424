@@ -1,6 +1,11 @@
 # Taxi Trip Data Visualization (Linked View using altair)
 
-Author: Uday Bhaskar Voora
+**Author: Uday Bhaskar Voora**
+# Lab4-424
+
+<p align="center">
+   <img src="vis/main.png" alt="Image 1" width="50%">
+</p>
 
 ## Dataset Description
 
@@ -21,6 +26,12 @@ X-axis: Pickup Community Area (randomly selected 50 areas)
 Y-axis: Average trip duration in seconds
 
 Color: Represents different Payment Types
+<p align="center">
+  <img src="vis/main1.png" alt="Image 1" width="50%">
+  <img src="vis/main2.png" alt="Image 1" width="50%">
+ 
+</p>
+
 
 **Interactive Feature:**
 
