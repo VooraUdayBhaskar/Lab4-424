@@ -41,5 +41,5 @@ Color: Represents different Payment Types
 
 **Takeaway from this visualization:**
 
-This visualization provides interactive insights into the relationship between Pickup Community Areas, trip durations, and payment methods. The ability to filter data dynamically allows for a more detailed understanding of taxi service patterns across different areas.
+- This visualization provides interactive insights into the relationship between Pickup Community Areas, trip durations, and payment methods. The ability to filter data dynamically allows for a more detailed understanding of taxi service patterns across different areas.
 
