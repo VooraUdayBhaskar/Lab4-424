@@ -4,6 +4,9 @@
 
 **Author: Uday Bhaskar Voora**
 
+- **NetID: uvoor**
+- **UIN: 655437573**
+
 
 <p align="center">
    <img src="vis/main.png" alt="Image 1" width="50%">
