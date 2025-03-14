@@ -1,12 +1,16 @@
 # Taxi Trip Data Visualization (Linked View using altair)
 
+
+
 **Author: Uday Bhaskar Voora**
-# Lab4-424
+
 
 <p align="center">
    <img src="vis/main.png" alt="Image 1" width="50%">
 </p>
 
+- Extra credit Task
+  
 ## Dataset Description
 
 The dataset contains taxi trip records with various attributes, including:
@@ -28,8 +32,8 @@ Y-axis: Average trip duration in seconds
 Color: Represents different Payment Types
 <p align="center">
    
-  <img src="vis/main1.png" alt="Image 2" width="50%">
-  <img src="vis/main2.png" alt="Image 3" width="50%">
+  <img src="vis/main1.png" alt="Image 2" width="33%">
+  <img src="vis/main2.png" alt="Image 3" width="33%">
  
 </p>
 
