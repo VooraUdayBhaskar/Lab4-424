@@ -27,8 +27,9 @@ Y-axis: Average trip duration in seconds
 
 Color: Represents different Payment Types
 <p align="center">
-  <img src="vis/main1.png" alt="Image 1" width="50%">
-  <img src="vis/main2.png" alt="Image 1" width="50%">
+   
+  <img src="vis/main1.png" alt="Image 2" width="50%">
+  <img src="vis/main2.png" alt="Image 3" width="50%">
  
 </p>
 
